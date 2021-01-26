@@ -12,3 +12,7 @@ chmod u+x request_zip.sh
 ``` 
 python satellite_gather.py
 ```
+
+```
+python generate_labels.py
+```
